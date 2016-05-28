@@ -80,6 +80,7 @@
 }
 
 \title{The Algebra and Dissection of Types}
+\subtitle{\verb|github.com/ryanorendorff/algebra_lambdaconf2016|}
 \author{Ryan~Orendorff\inst{1,2}}
 
 \institute{
