@@ -9,7 +9,7 @@
 
 %endif
 
-\documentclass[]{beamer}
+\documentclass[handout]{beamer}
 
 %include lhs2TeX.fmt
 %include lhs2TeX.sty
