@@ -321,10 +321,6 @@ Remember that a monoid has to follow the following rules.
 We can define a sum type as follows, where we hold onto either one value or
 a different value.
 
-> data Sum' a b = Sum' a b
-
-\vpause
-
 Which is equivalent to this.
 
 < Sum' a b `iso` a | b
